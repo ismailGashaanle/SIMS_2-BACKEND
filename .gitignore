@@ -1,0 +1,27 @@
+﻿# Environment Variables (NEVER commit!)
+.env
+.env.local
+.env.production
+
+# Dependencies
+node_modules/
+
+# Uploads
+uploads/
+temp/
+storage/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Database
+*.db
